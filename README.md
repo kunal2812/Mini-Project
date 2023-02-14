@@ -24,6 +24,15 @@ Extract the features from any three models and apply features selector algorithm
 
 [Dataset](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
+## Task 3
+![Date](https://img.shields.io/badge/Date-2023--02--14-purple)
+
+Combine features from different models (Ensemble) and use ReliefF on them.
+
+[Dataset](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
+
+[Reference Notebook](https://github.com/IbrahimSobh/kaggle-COVID19-Classification/blob/master/chest%20x-ray%20covid19%20efnet%20densenet%20vgg%20Grad-CAM.ipynb)
+
 ## Technology Stack:
   1) Tensorflow
   2) Keras
