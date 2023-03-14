@@ -50,6 +50,11 @@ Results
 
 ![Decrypted](./Task-4/decrypted.jpg)
 
+## Task 5
+![Date](https://img.shields.io/badge/Assigned-2023--03--13-purple)
+
+Implement image encryption using DNA Algorithm.
+
 ## Technology Stack:
   1) Tensorflow
   2) Keras
