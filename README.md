@@ -55,6 +55,17 @@ Results
 
 Implement image encryption using DNA Algorithm.
 
+## Task 6
+![Date](https://img.shields.io/badge/Assigned-2023--03--16-purple)
+
+Implement and fix majority voting in the given repository
+
+[Grape Disease Classification](https://github.com/Sanjana7395/Grape-disease-classification)
+
+[Dataset](https://www.kaggle.com/datasets/piyushmishra1999/plantvillage-grape)
+
+[Reference Repo](https://github.com/giraygokirmak/Keras-CNN-multi-model-ensemble-with-voting)
+
 ## Technology Stack:
   1) Tensorflow
   2) Keras
