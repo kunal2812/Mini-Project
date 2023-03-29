@@ -4,7 +4,7 @@
 
 This repository is for our semester mini project on machine learning and visual cryptography.
 
-This repository will contains all the code, data, and documentation related to our project, including the implementation of the machine learning models and the visual cryptography algorithm, as well as sample datasets and instructions on how to run the code.
+This repository will contains all the code, data, and documentation related to our project, including the implementation of the machine learning models and the visual cryptography algorithms, as well as sample datasets and instructions on how to run the code.
 
 ## Task 1
 ![Date](https://img.shields.io/badge/Assigned-2023--02--01-purple)
@@ -37,8 +37,6 @@ Combine features from different models (Ensemble) and use ReliefF on them.
 ![Date](https://img.shields.io/badge/Assigned-2023--03--11-purple)
 
 Implement image encryption using hyperchaotic maps (Logistic Map).
-
-[Reference Notebook](https://github.com/IbrahimSobh/kaggle-COVID19-Classification/blob/master/chest%20x-ray%20covid19%20efnet%20densenet%20vgg%20Grad-CAM.ipynb)
 
 Results
 
