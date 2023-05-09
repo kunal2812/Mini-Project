@@ -64,6 +64,21 @@ Implement and fix majority voting in the given repository.
 
 [Reference Repo](https://github.com/giraygokirmak/Keras-CNN-multi-model-ensemble-with-voting)
 
+## Task 7
+![Date](https://img.shields.io/badge/Assigned-2023--04--28-purple)
+
+Implement a efficient and strong encryption algorithm with high non linearity using concepts like S Boxes, Dynamic Permutation and Grey Wolf Algorithm.
+
+Project Repo:
+
+[Github](https://github.com/kunal2812)
+
+References:
+
+1. [Image encryption algorithm using dynamic permutation and large chaotic S-box](https://link.springer.com/article/10.1007/s11042-022-14175-2)
+
+2. [New color image encryption technique based on three-dimensional logistic map and Grey wolf optimization based generated substitution boxes](https://link.springer.com/article/10.1007/s11042-022-13612-6)
+
 ## Technology Stack:
   1) Tensorflow
   2) Keras
